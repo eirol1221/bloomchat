@@ -1,3 +1,5 @@
+[![Open in DevZero](https://assets.devzero.io/open-in-devzero.svg)](https://www.devzero.io/dashboard/recipes/new?repo-url=https://github.com/sambanova/bloomchat)
+
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/sambanova/bloomchat/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/sambanova/bloomchat/tree/main)
 [![Python](https://img.shields.io/badge/python-%3E=3.7-blue.svg)](https://www.python.org/)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit)
